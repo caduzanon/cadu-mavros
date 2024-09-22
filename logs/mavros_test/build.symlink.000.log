@@ -1,0 +1,4 @@
+Symlinking /home/cadu/cadu-mavros/devel/share/mavros_test/cmake/mavros_testConfig-version.cmake
+Symlinking /home/cadu/cadu-mavros/devel/share/mavros_test/cmake/mavros_testConfig.cmake
+Symlinking /home/cadu/cadu-mavros/devel/lib/pkgconfig/mavros_test.pc
+Symlinking /home/cadu/cadu-mavros/devel/lib/mavros_test/my_node

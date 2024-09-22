@@ -1,0 +1,6 @@
+devel_space: /home/cadu/cadu-mavros/devel
+install: false
+install_space: /home/cadu/cadu-mavros/install
+profile: reldeb
+source_space: /home/cadu/cadu-mavros/src
+workspace: /home/cadu/cadu-mavros

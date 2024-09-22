@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cadu/cadu-mavros/devel/.private/mavros_test/setup.sh

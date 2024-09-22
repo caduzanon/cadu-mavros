@@ -1,0 +1,8 @@
+mavros/mavros_extras
+/home/cadu/cadu-mavros/devel/.private/mavros_extras/cmake.lock /home/cadu/cadu-mavros/devel/./cmake.lock
+/home/cadu/cadu-mavros/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake /home/cadu/cadu-mavros/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+/home/cadu/cadu-mavros/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake /home/cadu/cadu-mavros/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+/home/cadu/cadu-mavros/devel/.private/mavros_extras/lib/libmavros_extras.so /home/cadu/cadu-mavros/devel/lib/libmavros_extras.so
+/home/cadu/cadu-mavros/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc /home/cadu/cadu-mavros/devel/lib/pkgconfig/mavros_extras.pc
+/home/cadu/cadu-mavros/devel/.private/mavros_extras/lib/mavros_extras/visualization /home/cadu/cadu-mavros/devel/lib/mavros_extras/visualization
+/home/cadu/cadu-mavros/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher /home/cadu/cadu-mavros/devel/lib/mavros_extras/servo_state_publisher

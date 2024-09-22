@@ -1,0 +1,6 @@
+mavros_test
+/home/cadu/cadu-mavros/devel/.private/mavros_test/cmake.lock /home/cadu/cadu-mavros/devel/./cmake.lock
+/home/cadu/cadu-mavros/devel/.private/mavros_test/share/mavros_test/cmake/mavros_testConfig-version.cmake /home/cadu/cadu-mavros/devel/share/mavros_test/cmake/mavros_testConfig-version.cmake
+/home/cadu/cadu-mavros/devel/.private/mavros_test/share/mavros_test/cmake/mavros_testConfig.cmake /home/cadu/cadu-mavros/devel/share/mavros_test/cmake/mavros_testConfig.cmake
+/home/cadu/cadu-mavros/devel/.private/mavros_test/lib/pkgconfig/mavros_test.pc /home/cadu/cadu-mavros/devel/lib/pkgconfig/mavros_test.pc
+/home/cadu/cadu-mavros/devel/.private/mavros_test/lib/mavros_test/my_node /home/cadu/cadu-mavros/devel/lib/mavros_test/my_node

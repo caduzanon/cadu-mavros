@@ -1,0 +1,5 @@
+Symlinking /home/cadu/cadu-mavros/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+Symlinking /home/cadu/cadu-mavros/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+Symlinking /home/cadu/cadu-mavros/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+Symlinking /home/cadu/cadu-mavros/devel/lib/libmavconn.so
+Symlinking /home/cadu/cadu-mavros/devel/lib/pkgconfig/libmavconn.pc

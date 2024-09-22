@@ -1,0 +1,7 @@
+mavros/libmavconn
+/home/cadu/cadu-mavros/devel/.private/libmavconn/cmake.lock /home/cadu/cadu-mavros/devel/./cmake.lock
+/home/cadu/cadu-mavros/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake /home/cadu/cadu-mavros/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+/home/cadu/cadu-mavros/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake /home/cadu/cadu-mavros/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+/home/cadu/cadu-mavros/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake /home/cadu/cadu-mavros/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+/home/cadu/cadu-mavros/devel/.private/libmavconn/lib/libmavconn.so /home/cadu/cadu-mavros/devel/lib/libmavconn.so
+/home/cadu/cadu-mavros/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc /home/cadu/cadu-mavros/devel/lib/pkgconfig/libmavconn.pc

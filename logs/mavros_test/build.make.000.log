@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target my_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/my_node.dir/src/my_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/cadu/cadu-mavros/devel/.private/mavros_test/lib/mavros_test/my_node[0m
+[100%] Built target my_node

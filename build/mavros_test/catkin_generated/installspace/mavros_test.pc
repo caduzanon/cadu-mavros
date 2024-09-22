@@ -1,0 +1,8 @@
+prefix=/home/cadu/cadu-mavros/install
+
+Name: mavros_test
+Description: Description of mavros_test
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

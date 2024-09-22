@@ -1,0 +1,12 @@
+Symlinking /home/cadu/cadu-mavros/devel/./env.sh
+Symlinking /home/cadu/cadu-mavros/devel/./setup.bash
+Symlinking /home/cadu/cadu-mavros/devel/./local_setup.zsh
+Symlinking /home/cadu/cadu-mavros/devel/./local_setup.bash
+Symlinking /home/cadu/cadu-mavros/devel/./setup.sh
+Symlinking /home/cadu/cadu-mavros/devel/./cmake.lock
+Symlinking /home/cadu/cadu-mavros/devel/./local_setup.sh
+Symlinking /home/cadu/cadu-mavros/devel/./_setup_util.py
+Symlinking /home/cadu/cadu-mavros/devel/./setup.zsh
+Symlinking /home/cadu/cadu-mavros/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/cadu/cadu-mavros/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/cadu/cadu-mavros/devel/lib/pkgconfig/catkin_tools_prebuild.pc
